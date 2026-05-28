@@ -1,5 +1,4 @@
 ﻿using ProjetoTela.Models;
-using ProjetoTela.Repositorio;
 
 namespace ProjetoTela.Repositorio
 {
